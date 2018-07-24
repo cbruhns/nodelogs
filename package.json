@@ -1,0 +1,24 @@
+{
+  "name": "nodelogs",
+  "version": "1.0.0",
+  "description": "a simple node logger with google drive integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbruhns/nodelogs.git"
+  },
+  "keywords": [
+    "node",
+    "logs",
+    "drive"
+  ],
+  "author": "Cameron Bruhns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbruhns/nodelogs/issues"
+  },
+  "homepage": "https://github.com/cbruhns/nodelogs#readme"
+}
